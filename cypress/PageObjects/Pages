@@ -1,0 +1,9 @@
+class page {
+
+//I couldn't implement page object becuase of the minum time allocated for the assessment
+}
+
+
+
+
+export default page;
